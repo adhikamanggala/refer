@@ -1,0 +1,16 @@
+nav.navbar.navbar-expand-md.navbar-light {
+   
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.wrapper.wrapper--w680 {
+    margin-top: 95px;
+    margin-bottom: 42px;
+}
+
+.turunin {
+    margin-top: 80px;
+}/*turunin marrgin top biar ga mepet navbar*/

@@ -12,6 +12,7 @@ import reducers from "./reducers";
 import './support/Registercss/css/main.css'
 
 
+
 const store = createStore(reducers, {}, applyMiddleware(ReduxThunk));
 
 ReactDOM.render(

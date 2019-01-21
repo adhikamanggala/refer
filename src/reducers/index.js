@@ -4,7 +4,6 @@ import SelectProductReducer from './SelectItemReducer';
 
 
 export default combineReducers ({
-    pikachu: () => 'Ryan Reynolds',
     auth: AuthReducers,
     selectedProduct: SelectProductReducer
 });
